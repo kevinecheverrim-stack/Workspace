@@ -70,7 +70,6 @@ He actualizado el archivo Git1cheatsheet.md con información sobre push y pull e
 - Qué es y cómo usar `git pull`.
 
 Si necesitas más detalles o modificaciones, dime.
-
 Made changes.
 
 
