@@ -1,0 +1,7 @@
+{
+    let x=5;
+}
+let y=10;
+console.log(y);
+console.log(x);
+// la varible x sale del ambito de ejecucion//
